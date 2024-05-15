@@ -1,21 +1,16 @@
 {
-    "name": "Senash Thenuja",
-    "handle": "SenaThenu",
-    "profilePicture": "assets/profile-picture.png",
-    "description": "I create weird stuff!",
+    "name": "Lily Heltzer-Stiles",
+    "handle": "/in/lilyheltzerstiles/",
+    "profilePicture": ![My Profile Picture](https://raw.githubusercontent.com/psyferlab/psyfermedia/main/1708551487204.jpeg),
+    "description": "Fulfillment Coordinator",
     "backgroundImage": "assets/background.png",
     "linkIconFormat": "svg",
     "links": {
-        "GitHub": "https://github.com/SenaThenu",
-        "Linkedin": "https://www.linkedin.com/in/senathenu/",
-        "Medium": "https://medium.com/@senathenu",
-        "X": "https://x.com/senathenu",
-        "Kaggle": "https://www.kaggle.com/senashthenuja",
-        "Hashnode": "https://senathenu.hashnode.dev/",
-        "Product Hunt": "https://www.producthunt.com/@senathenu",
-        "Reddit": "https://www.reddit.com/user/SenaThenu",
-        "Unsplash": "https://unsplash.com/@senathenu",
-        "Goodreads": "https://www.goodreads.com/user/show/136197280-senash",
-        "Patreon": "https://www.patreon.com/senathenu"
+        "Resume": "https://github.com/",
+        "Linkedin": "https://www.linkedin.com/in/lilyheltzerstiles/",
+        "Enteractive Solutions": "https://www.enteractivesolutions.com/",
+        "Art": "https://github.com/psyferlab/lily-art",
+        "Astrology & Tarot": "https://github.com/psyferlab/lily-astrology-tarot",
+        "My Music": "https://soundcloud.com/djstarshine",
     }
 }
